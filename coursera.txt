@@ -1,0 +1,32 @@
+{
+  "Similar": {
+    "Info": [
+      {
+        "Name": "Bridesmaids",
+        "Type": "movie"
+      }
+    ],
+    "Results": [
+      {
+        "Name": "Pitch Perfect",
+        "Type": "movie"
+      },
+      {
+        "Name": "Easy A",
+        "Type": "movie"
+      },
+      {
+        "Name": "Crazy, Stupid, Love.",
+        "Type": "movie"
+      },
+      {
+        "Name": "Mean Girls",
+        "Type": "movie"
+      },
+      {
+        "Name": "21 Jump Street",
+        "Type": "movie"
+      }
+    ]
+  }
+}
